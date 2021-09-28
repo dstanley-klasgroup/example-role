@@ -1,0 +1,4 @@
+---
+- name: Example
+  debug:
+    msg: "Hello from example role!"
